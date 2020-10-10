@@ -1,0 +1,19 @@
+{
+  "name": "chatter",
+  "version": "1.0.0",
+  "description": "Chat App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js"
+     
+  },
+  "keywords": [
+    "Socket.io",
+    "chat",
+    "javascript",
+    "node"
+  ],
+  "author": "Madeline",
+  "license": "ISC"
+}
